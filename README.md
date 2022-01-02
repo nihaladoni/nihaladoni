@@ -37,7 +37,7 @@ const nehal = {
         },
         devOps: ["Git", "Github", "Linux"],
         databases: ["mongodb", "MySql"],
-        misc: ["Firebase", "Figma", "Heroku", "Netify"],
+        misc: ["Firebase", "Figma", "Heroku", "Netlify"],
         },
     architecture: ["single page applications"],
 };
