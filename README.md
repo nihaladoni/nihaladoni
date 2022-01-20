@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nehal Adoni](https://www.linkedin.com/in/nehaladoni/) 
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nihaladoni.netlify.app/)](https://nihaladoni.netlify.app/)
-![profile-visitors](https://komarev.com/ghpvc/?username=nihaladoni)
+<!-- ![profile-visitors](https://komarev.com/ghpvc/?username=nihaladoni) -->
 [![Linkedin: Nehal](https://img.shields.io/badge/-Nehal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nehaladoni/)](https://www.linkedin.com/in/nehaladoni/)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
+<!-- 
 ```javascript
 const nehal = {
     code: ["Javascript", "Python" ],
@@ -42,6 +43,7 @@ const nehal = {
     architecture: ["single page applications"],
 };
 ```
+-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaladoni&layout=compact&theme=radical)
