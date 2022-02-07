@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nehal Adoni](https://www.linkedin.com/in/nehaladoni/) 
+## Hey <img src="https://user-images.githubusercontent.com/61204519/152750119-5cb745d3-c497-4014-959b-da2b12aa2078.gif" width="29px"/>,I'm [Nehal Adoni](https://www.linkedin.com/in/nehaladoni/) 
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nihaladoni.netlify.app/)](https://nihaladoni.netlify.app/)
 <!-- ![profile-visitors](https://komarev.com/ghpvc/?username=nihaladoni) -->
