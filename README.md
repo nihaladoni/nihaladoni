@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,tailwind,firebase,linux,nodejs)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,tailwind,firebase,linux,nodejs)
 
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
