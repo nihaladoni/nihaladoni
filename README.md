@@ -26,32 +26,36 @@ Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,redux,html,css,tailwind,firebase,linux,nodejs)
 
 
-<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!-- 
+
+<!--
 ```javascript
 const nehal = {
-    code: ["Javascript", "Python" ],
-    askMeAbout: ["web dev", "tech"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Express"],
-        },
-        frontEnd:{
-            js: ["Next Js", "React", "Redux", "Gatsby"],
-            css: ["Tailwind CSS", "Material UI", "Chakra UI", "Bootstrap"],
-        },
-        mobileApp: {
-            hybrid: ["React Native (Expo)"],
-        },
-        devOps: ["Git", "Github", "Linux"],
-        databases: ["mongodb", "MySql"],
-        misc: ["Firebase", "Figma", "Heroku", "Netlify"],
-        },
-    architecture: ["single page applications"],
-};
+  code: ['Javascript', 'Typescript'],
+  askMeAbout: ['Web Development', 'Tech'],
+  technologies: {
+    architecture: ['Single Page Applications'],
+    backEnd: {
+      js: ['Node', 'Express','GraphQl'],
+    },
+    cms: ['Contentful', 'Sanity'],
+    databases: ['Mongodb', 'MySQL'],
+    devOps: ['Git', 'Github', 'Linux'],
+    frontEnd: {
+      js: ['Next', 'React', 'Redux', 'Gatsby'],
+      css: ['Tailwind CSS', 'Material UI', 'Chakra UI', 'Bootstrap', 'Styled Components'],
+    },
+    misc: ['Firebase', 'Figma', 'Heroku', 'Netlify'],
+    mobileApp: {
+      hybrid: ['React Native (Expo)'],
+    },
+  },
+}
+
 ```
--->
+ -->
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaladoni&layout=compact&theme=radical) -->
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihaladoni&layout=compact&theme=radical)
