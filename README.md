@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey <img src="https://user-images.githubusercontent.com/61204519/152750119-5cb745d3-c497-4014-959b-da2b12aa2078.gif" width="20px" height="20px"/>,I'm [Nehal Adoni](https://www.linkedin.com/in/nehaladoni/)
+## Hi, I'm [Nehal Adoni](https://www.linkedin.com/in/nehaladoni/)
+<!-- <img src="https://user-images.githubusercontent.com/61204519/152750119-5cb745d3-c497-4014-959b-da2b12aa2078.gif" width="20px" height="20px"/> -->
+
+
 
 
 
